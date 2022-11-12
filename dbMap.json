@@ -1,0 +1,63 @@
+{
+    "name": "数据库数据映射表", 
+    "data": {
+        "8thGradeFinalTest_201701": {
+            "lable": "八年级冬季期末",
+            "field": {
+                "name":         "姓名", 
+                "school":       "学校", 
+                "class":        "班级", 
+                "testId":       "考号", 
+                "sumScore":     "总分", 
+                "ciRanking":    "市排名", 
+                
+                "chinese":      "语文", 
+                "chineseP":     "语文排名", 
+                "math":         "数学", 
+                "mathP":        "数学排名", 
+                "english":      "英语", 
+                "englishP":     "英语排名", 
+                "physics":      "物理", 
+                "physicsP":     "物理排名", 
+                
+                "politics":     "政治", 
+                "politicsP":    "政治排名", 
+                "history":      "历史", 
+                "historyP":     "历史排名", 
+                "geography":    "地理", 
+                "geographyP":   "地理排名", 
+                "biology":      "生物", 
+                "biologyP":     "生物排名"
+            }
+        },
+        "8thGradeHalfTest_201610": {
+            "lable": "八年级秋季半期",
+            "field": {
+                "name":         "姓名", 
+                "school":       "考生单位", 
+                "class":        "班级", 
+                "testId":       "考号", 
+                "sumScore":     "总分", 
+                "ciRanking":    "市排名", 
+                
+                "chinese":      "语文", 
+                "chineseP":     "F8", 
+                "math":         "数学", 
+                "mathP":        "F10", 
+                "english":      "英语", 
+                "englishP":     "F12", 
+                "physics":      "物理", 
+                "physicsP":     "F14", 
+                
+                "politics":     "政治", 
+                "politicsP":    "F16", 
+                "history":      "历史", 
+                "historyP":     "F18", 
+                "geography":    "地理", 
+                "geographyP":   "F20", 
+                "biology":      "生物", 
+                "biologyP":     "F22"
+            }
+        }
+    }
+}
